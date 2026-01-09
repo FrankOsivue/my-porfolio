@@ -14,8 +14,8 @@ const About = () => {
           </h1>
           <p>
             Hi, my name is <b>Mark Francis.</b> I'm a <b>Frontend Engineer </b>
-            who is skilled at using modern web technologies to craft exquisite
-            web experiences. I also pay attention to detail, so I am great at
+            skilled at using modern web technologies to craft exquisite web
+            experiences. I also pay attention to detail, so I am great at
             translating designs to code pixel-perfectly.
             <br />
             <br />
@@ -45,13 +45,10 @@ const About = () => {
       <div className='skills'>
         <Skills skill='React' />
         <Skills skill='Node' />
-        <Skills skill='Express' />
-        <Skills skill='MongoDb' />
+
         <Skills skill='Git' />
         <Skills skill='Github' />
         <Skills skill='Javascript' />
-        <Skills skill='C++' />
-        <Skills skill='Postman' />
         <Skills skill='Figma' />
         <Skills skill='Vercel' />
         <Skills skill='Npm' />
