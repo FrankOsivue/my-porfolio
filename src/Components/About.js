@@ -41,7 +41,7 @@ const About = () => {
         </div>
       </div>
 
-      <h1 className='SkillsHeading'>Professional Skillset</h1>
+      <h1 className='SkillsHeading'>Tools and Technologies</h1>
       <div className='skills'>
         <Skills skill='React' />
         <Skills skill='Node' />

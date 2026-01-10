@@ -1,13 +1,12 @@
 import React from 'react';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { GrMail } from 'react-icons/gr';
-import { SiLeetcode } from 'react-icons/si';
 
 const Footer = () => {
   return (
     <footer>
       <h4>
-        Developed by <b>Mark Francis</b> using opensource template from
+        ©2026 <b>Mark Francis|</b> Based on template from{' '}
         <a
           href='https://github.com/DevanshSahni'
           target='_blank'
@@ -15,7 +14,7 @@ const Footer = () => {
           Devansh Sahni
         </a>
       </h4>
-      <h4>Copyright &copy; 2026</h4>
+
       <div className='footerLinks'>
         <a
           href='https://github.com/frankosivue'
