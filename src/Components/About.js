@@ -44,8 +44,6 @@ const About = () => {
       <h1 className='SkillsHeading'>Tools and Technologies</h1>
       <div className='skills'>
         <Skills skill='React' />
-        <Skills skill='Node' />
-
         <Skills skill='Git' />
         <Skills skill='Github' />
         <Skills skill='Javascript' />

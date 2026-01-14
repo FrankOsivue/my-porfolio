@@ -13,6 +13,10 @@ const Projects = () => {
       </h1>
       <div className='project'>
         <ProjectBox
+          projectPhoto={TindogImage}
+          projectName='Solpoint'
+        />
+        <ProjectBox
           projectPhoto={WigglesImage}
           projectName='Wiggles'
         />
@@ -23,10 +27,6 @@ const Projects = () => {
         <ProjectBox
           projectPhoto={RogfreeImage}
           projectName='RogFree'
-        />
-        <ProjectBox
-          projectPhoto={TindogImage}
-          projectName='Solpoint'
         />
       </div>
     </div>
