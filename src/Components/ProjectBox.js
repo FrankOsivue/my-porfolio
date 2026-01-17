@@ -5,7 +5,7 @@ import { CgFileDocument } from 'react-icons/cg';
 const ProjectBox = ({ projectPhoto, projectName }) => {
   const desc = {
     SolpointDesc:
-      'A student ticket management web app for university issues, built for HNG Stage 2. Includes React, Vue, and Twig implementations..',
+      'A fully responsive website for managing support tickets, built with React and React Router. It combines robust CRUD operations with the speed of Vercel hosting to simplify issue tracking',
     SolpointGithub: 'https://github.com/FrankOsivue/hng-stage2-ticket-app',
     SolpointWebsite: 'https://hng-stage2-ticket-app.vercel.app/',
 

@@ -2,8 +2,9 @@ import React from 'react';
 import ProjectBox from './ProjectBox';
 import NewsletterImage from '../images/NewsletterImage.png';
 import RogfreeImage from '../images/RogfreeImage.png';
-import TindogImage from '../images/TindogImage.png';
+
 import WigglesImage from '../images/WigglesImage.png';
+import Solpoint from '../images/Solpoint.png';
 
 const Projects = () => {
   return (
@@ -13,7 +14,7 @@ const Projects = () => {
       </h1>
       <div className='project'>
         <ProjectBox
-          projectPhoto={TindogImage}
+          projectPhoto={Solpoint}
           projectName='Solpoint'
         />
         <ProjectBox
